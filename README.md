@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Experience:
+#### 👩‍💻 Experience:
+* Lead Solutions Engineer @ Datadog (November 2020 - Present)
+* Solutions Engineer @ Datadog (December 2019 - November 2020)
 
-### Education:
+#### 📚 Education:
 * BS in Computer Science @ Oregon State University (expected graduation December 2022)
 * Game Development Bootcamp @ Code Coven (December 2021)
 * Web Development Bootcamp @ Flatiron School (June 2019)
