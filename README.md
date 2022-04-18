@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### 👩‍💻 Experience:
-* Lead Solutions Engineer @ Datadog (November 2020 - Present)
+* Lead Solutions Engineer @ Datadog (November 2020 - April 2022)
 * Solutions Engineer @ Datadog (December 2019 - November 2020)
 
 #### 📚 Education:
